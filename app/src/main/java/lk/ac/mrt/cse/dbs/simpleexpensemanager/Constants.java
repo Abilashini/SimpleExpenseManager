@@ -16,9 +16,14 @@
 
 package lk.ac.mrt.cse.dbs.simpleexpensemanager;
 
+import java.text.DateFormat;
+
 /**
  *
  */
 public class Constants {
     public static final String EXPENSE_MANAGER = "expense-manager";
+    public static final String EXPENCE = "expence";
+    public static final String INCOME = "income";
+    public static final String DateFormat = "yyyy-MM-dd";
 }
